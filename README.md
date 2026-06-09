@@ -1,6 +1,6 @@
 # Ali Hariri Movahed
 
-CS + Math at RWTH Aachen, somewhere between student research and founding. I spent time in industry running my own business before returning to study AI and CS at the source.
+CS + Math at RWTH Aachen, somewhere between student research and founding. I spent time in industry running my own business before returning to academia to study AI and CS at the source.
 
 I research at the seam where machine learning meets the physical world: physics-informed models that respect the equations they're trained on, perception pipelines that run under hard real-time constraints. Some of it may become papers at a NeurIPS ML4PS workshop.
 
