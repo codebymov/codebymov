@@ -2,11 +2,11 @@
 
 CS + Math at RWTH Aachen, somewhere between student research and founding. I spent time in industry running my own business before returning to academia to study AI and CS at the source.
 
-I research at the seam where machine learning meets the physical world: physics-informed models that respect the equations they're trained on, perception pipelines that run under hard real-time constraints. Some of it may become papers at a NeurIPS ML4PS workshop.
+I research at the seam where machine learning meets the physical world: physics-informed models that respect the equations they're trained on, perception pipelines that run under hard real-time constraints.
 
 Most recently, I came to the conclusion that autonomous agents are going to do the real work rather than prompt tools and would be the infrastructure for the next wave of AI, which are the AI employees, not AI prompts. I'm building a system where AI maintains and improves live websites on its own, end to end, and the human only signs off. The bet underneath it: the next era of AI isn't a better prompt box, it's software that holds a job.
 
-I'll be writing as I go. *Diary of a Student Founder* for the stories and the tools I'm using to build and share, and *Postmortem* for the f\*\*k-ups. Both are crucial to open-source the way I see it, because the real contribution isn't the polished result, it's the process that produced it.
+I'll be writing as I go. *Diary of a Student Founder* for the stories and the tools I'm using to build and share, and *Postmortem* for the failures. Both are crucial to open-source the way I see it, because the real contribution isn't the polished result, it's the process that produced it.
 
 Some of what I build is public; most of it isn't yet.
 
